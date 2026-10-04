@@ -30,3 +30,4 @@ jobs:
         with:
           name: fleetcheck-gradle-build
           path: build/libs/*.jar
+
